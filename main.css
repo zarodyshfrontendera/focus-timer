@@ -209,6 +209,7 @@ body {
 	color: #f8f8fc;
 	font-weight: 700;
 	font-size: 96px;
+	user-select: none;
 }
 
 svg {
